@@ -8,9 +8,8 @@ Encontro voltado para unir programadores com ações sociais
 
 ***
 
-Padrinho:
-<a href="https://plus.google.com/+GDGRiodeJaneiroOficial" target="_blank">
-	<img src="https://drive.google.com/open?id=0B5PchHVrDH0UY0ZZSlItZDJndmc">
-</a>
+####Powered by: 
+<a href="https://plus.google.com/+GDGRiodeJaneiroOficial" target="_blank"><img src="http://farm1.staticflickr.com/591/23771435115_af0eaebc15_b.jpg"></a>
+
 
 

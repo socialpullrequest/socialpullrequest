@@ -1,5 +1,4 @@
 #FAQs
-***
 
 Como podemos ajudar as ONGS?
 ```
@@ -11,3 +10,4 @@ Resumindo: O projeto será definido no dia do encontro. Inclusive já podemos le
 
 Lembrando que isso é a minha opinião e estou aqui para ouvir vocês também.
 ```
+***

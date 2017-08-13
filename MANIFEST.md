@@ -1,5 +1,5 @@
-#Social PullRequest
-# Fazendo a diferença com o que mais gostamos de fazer.
+# Social PullRequest
+> ## Fazendo a diferença com o que mais gostamos de fazer.
 
 * Unir quem precisa com quem pode ajudar.
 * Existem varios problemas que podem ser resolvido só com boa vontade e cooperação (Sem envolvimento de dinheiro).

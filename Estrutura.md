@@ -1,4 +1,4 @@
-# Estrutura
+# Estrutura Local
 
 ### Modelo de encontros
 
@@ -20,3 +20,6 @@ No caso de haver necessidade de ter uma periodicidade, qual a melhor, ou se é m
 No caso de ficar a cargo do grupo, de que maneira a pessoa que estiver organizando o grupo pode definir essas datas?
 * Doodle
 * Forms do Google Drive
+
+---
+# Estrutura WEB

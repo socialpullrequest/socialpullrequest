@@ -18,7 +18,7 @@ Encontro voltado para unir programadores com ações sociais
 3. Crie uma _issue_ se prontificando a nos ajudar da forma que julgares mais produtivo, e aproveite a issue para sugerir quaisquer atividades para o benefício de todos (devs/ongs).
 
 #### Nossos apoiadores: 
-<a href="https://plus.google.com/+GDGRiodeJaneiroOficial" target="_blank"><img src="http://farm1.staticflickr.com/591/23771435115_af0eaebc15_b.jpg"></a>
+<a href="https://www.meetup.com/pt-BR/GDGRioDeJaneiro/" target="_blank"><img src="http://farm1.staticflickr.com/591/23771435115_af0eaebc15_b.jpg"></a>
 
 
 
